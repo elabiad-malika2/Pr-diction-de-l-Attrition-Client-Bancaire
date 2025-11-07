@@ -1,0 +1,24 @@
+# --- Traitement et Analyse ---
+pyspark==3.5.1
+pandas
+numpy
+
+# --- Machine Learning ---
+scikit-learn
+imbalanced-learn
+
+# --- Base de Données ---
+pymongo
+
+# --- Visualisation ---
+matplotlib
+seaborn
+
+# --- Interface Web ---
+streamlit
+
+# --- Configuration ---
+python-dotenv
+
+# --- Notebooks ---
+jupyterlab
